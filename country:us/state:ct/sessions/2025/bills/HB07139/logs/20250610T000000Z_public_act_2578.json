@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "PUBLIC ACT 25-78",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB07139"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE REJECTED HOUSE AMEND. SCH. D",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB05428"
+}

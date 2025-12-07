@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REFERRED TO Office of Legislative Research AND Office of Fiscal Analysis 03/26/25",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB01091"
+}

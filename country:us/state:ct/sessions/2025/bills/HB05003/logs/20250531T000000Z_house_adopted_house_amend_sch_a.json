@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE ADOPTED HOUSE AMEND. SCH. A",
+    "date": "2025-05-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB05003"
+}

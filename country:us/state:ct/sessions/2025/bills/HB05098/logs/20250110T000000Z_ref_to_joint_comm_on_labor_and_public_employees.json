@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REF. TO JOINT COMM. ON Labor and Public Employees",
+    "date": "2025-01-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB05098"
+}

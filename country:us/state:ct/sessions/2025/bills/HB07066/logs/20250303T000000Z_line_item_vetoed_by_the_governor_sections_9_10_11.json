@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "LINE ITEM VETOED BY THE GOVERNOR, SECTION(S): 9, 10, 11",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB07066"
+}

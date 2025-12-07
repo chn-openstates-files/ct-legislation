@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SEN. REJ. SEN. AMEND. SCH. D",
+    "date": "2025-11-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB08002"
+}

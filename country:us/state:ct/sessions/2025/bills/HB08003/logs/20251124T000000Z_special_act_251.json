@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SPECIAL ACT 25-1",
+    "date": "2025-11-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB08003"
+}

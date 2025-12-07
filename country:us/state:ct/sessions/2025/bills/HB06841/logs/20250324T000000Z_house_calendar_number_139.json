@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HOUSE CALENDAR NUMBER 139",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB06841"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HOUSE CALENDAR NUMBER 681",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB01382"
+}

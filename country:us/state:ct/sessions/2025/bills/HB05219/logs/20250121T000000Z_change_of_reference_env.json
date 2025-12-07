@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Change of Reference ENV",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB05219"
+}

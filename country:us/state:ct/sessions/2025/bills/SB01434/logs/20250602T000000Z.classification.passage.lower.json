@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE PASSED, SEN. AMEND. SCH. A",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB01434"
+}

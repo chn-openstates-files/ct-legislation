@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "FILED WITH LCO",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB07274"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE REJECTED HOUSE AMEND. SCH. C",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB07287"
+}

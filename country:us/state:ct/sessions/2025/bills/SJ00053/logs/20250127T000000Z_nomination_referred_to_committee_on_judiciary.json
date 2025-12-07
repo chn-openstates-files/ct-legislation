@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "NOMINATION REFERRED TO COMMITTEE ON Judiciary",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJ00053"
+}

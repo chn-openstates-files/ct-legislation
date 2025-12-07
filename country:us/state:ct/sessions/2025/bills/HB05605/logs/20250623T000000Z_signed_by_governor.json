@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SIGNED BY GOVERNOR",
+    "date": "2025-06-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB05605"
+}
